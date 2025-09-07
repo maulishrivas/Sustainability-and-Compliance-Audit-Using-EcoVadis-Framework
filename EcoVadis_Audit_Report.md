@@ -34,17 +34,12 @@
 - Top gaps and recommended actions
 - Evidence reviewed
 
-## 4. Findings Register (Snapshot)
-| ID | Theme | Title | Risk | Recommendation | Owner | Target Date | Status |
-|----|-------|-------|------|----------------|-------|-------------|--------|
-| F-001 | Ethics | Anti-corruption training completion 58% | High | Drive to 95% within 60 days; automated reminders | Compliance | 2025-10-31 | Open |
-
-## 5. Action Plan & Next Steps
+## 4. Action Plan & Next Steps
 - Prioritize High risk findings
 - Assign owners and due dates
 - Monitor progress via monthly scoring updates
 
-## 6. Appendices
+## 5. Appendices
 - A. Checklist extract
 - B. Evidence links
 - C. Methodology & scoring rules
