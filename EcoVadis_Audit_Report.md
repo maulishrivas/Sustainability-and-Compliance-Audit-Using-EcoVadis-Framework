@@ -40,6 +40,5 @@
 - Monitor progress via monthly scoring updates
 
 ## 5. Appendices
-- A. Checklist extract
-- B. Evidence links
-- C. Methodology & scoring rules
+- A. Evidence links
+- B. Methodology & scoring rules
