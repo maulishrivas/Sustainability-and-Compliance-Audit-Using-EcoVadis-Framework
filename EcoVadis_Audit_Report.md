@@ -2,7 +2,7 @@
 
 **Organization:** SampleCo  
 **Date:** 25/08/2025 
-**Assessor:** <Anmol>  
+**Assessor:** Anmol Shrivastava  
 
 ## 1. Executive Summary
 - Overall EcoVadis-aligned compliance: <58%>
