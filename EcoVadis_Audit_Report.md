@@ -2,10 +2,10 @@
 
 **Organization:** SampleCo  
 **Date:** 25/08/2025 
-**Assessor:** <Anmol Shrivastava>  
+**Assessor:** <Anmol>  
 
 ## 1. Executive Summary
-- Overall EcoVadis-aligned compliance: <xx%>
+- Overall EcoVadis-aligned compliance: <58%>
 - Key strengths: <e.g., Equal opportunity policy; G&H register>
 - Key gaps: <e.g., Supplier ESG assessments not implemented; Anti-corruption training completion at 58%>
 
