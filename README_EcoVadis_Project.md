@@ -30,7 +30,3 @@ This repository contains a **hands-on EcoVadis-style sustainability audit**. It 
 - Labor & Human Rights: Equal opportunity policy, H&S training logs, whistleblowing channel evidence.  
 - Ethics: Anti-corruption policy & LMS completion %; gifts & hospitality register; due diligence records.  
 - Sustainable Procurement: Supplier Code of Conduct acknowledgments; ESG assessments; contract ESG clauses.
-
-## How to Convert Report to PDF
-- Open `EcoVadis_Audit_Report.md` in VS Code → Markdown PDF extension → Export as PDF.  
-
