@@ -23,7 +23,7 @@ This repository contains a **hands-on EcoVadis-style sustainability audit**. It 
 **Situation:** Built an EcoVadis-aligned sustainability audit to complement ISO/IEC 27001 work.  
 **Task:** Create a practical **checklist + scoring + findings** system to assess a sample org.  
 **Action:** Implemented **Excel** with validations, auto-scoring, charts; documented findings and report; wrote a README detailing method.  
-**Result:** Produced a structured audit that identified key gaps in **supplier ESG assessment**, **anti-corruption training completion**, and **energy monitoring**, demonstrating **risk-based assessment** and multi-framework fluency (EcoVadis + ISO/SOC2/PCI).
+**Result:** Produced a structured audit that identified key gaps in **supplier ESG assessment**, **anti-corruption training completion**, and **energy monitoring** and demonstrating **risk-based assessment**.
 
 ## Evidence to be collected
 - Environment: Carbon policy, GHG inventory, waste manifests, energy dashboards.  
