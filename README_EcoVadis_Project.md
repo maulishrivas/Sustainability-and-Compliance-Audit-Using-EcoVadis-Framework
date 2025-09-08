@@ -11,9 +11,9 @@ This repository contains a **hands-on EcoVadis-style sustainability audit**. It 
 1. **Open the Checklist** sheet and review each row.
 2. For each requirement,I have set **Status** (Compliant / Partial / Non-compliant / Not Applicable) and **Risk** (High / Medium / Low / N/A).
 3. The **Score** column auto-calculates (2/1/0). I added **Notes** and **Next Action**.
-4. I logged into any issues in **Findings Register** with clear **Recommendation** and **Target Date**.
+4. I logged into any issues in the report with clear **Recommendation**.
 5. I checked the **Scoring** sheet to see **Compliance % by Theme** and the **Status Distribution** chart.
-6. I exported your results into the `EcoVadis_Audit_Report.md` (then convert to PDF).
+6. I exported your results into the `EcoVadis_Audit_Report.md`.
 
 ## Scoring Logic
 - **Compliant = 2**, **Partial = 1**, **Non-compliant = 0**, **N/A = blank**.
